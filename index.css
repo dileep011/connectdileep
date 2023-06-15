@@ -13,15 +13,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Base styles */
-
-body {
-  font-size:18px ;
-  font-weight: 400;
-  line-height: 1.4;
-  color: white
-}
-
+/* Base styles *
 h1,h2 {
   font-weight: 700;
   text-align: center;
